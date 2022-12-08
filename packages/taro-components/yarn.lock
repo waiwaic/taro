@@ -652,10 +652,10 @@
   version "1.1.3"
   resolved "https://registry.npmjs.org/@nodelib/fs.stat/-/fs.stat-1.1.3.tgz#2b5a3ab3f918cca48a8c754c08168e3f03eba61b"
 
-"@tarojs/taro-h5@2.0.0-beta.12":
-  version "2.0.0-beta.12"
-  resolved "https://registry.yarnpkg.com/@tarojs/taro-h5/-/taro-h5-2.0.0-beta.12.tgz#06a64a2c1b6a558d020754b5111691ccccf26dcd"
-  integrity sha512-hMVVOGP5yySpH0BxffI0+zKcy9ML8XNzPhzoVc1Lai7G+JGycrv0pOQFW4owZBA8NmV2UTHZ2aiO+QkYk0BeSw==
+"@tarojs/taro-h5@2.0.1":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@tarojs/taro-h5/-/taro-h5-2.0.1.tgz#ac6819f9e67130909e6d36fb33d5f8d1f8ffc7a2"
+  integrity sha512-B3dR1jMxv4rTpY/tlA93WilBPv8vPNuF4Lwg9q0Tvq03Q2R52nIpFjgVxohQUDUFg7KF3j80etNZKT7Fdtzc+Q==
   dependencies:
     base64-js "^1.3.0"
     jsonp-retry "^1.0.3"
@@ -1478,10 +1478,10 @@ babel-plugin-transform-strict-mode@^6.24.1:
     babel-runtime "^6.22.0"
     babel-types "^6.24.1"
 
-babel-plugin-transform-taroapi@2.0.0-beta.12:
-  version "2.0.0-beta.12"
-  resolved "https://registry.yarnpkg.com/babel-plugin-transform-taroapi/-/babel-plugin-transform-taroapi-2.0.0-beta.12.tgz#03c9d7090f6248409b6be4d51eabc2d86f201c69"
-  integrity sha512-T6Ca+Kr8YN7VxI3MQImD1ueRahWNqnlGINpGUbfS7YfeHNZF9LH/YLjvirdDN7H72Vj7N/aP/KBlxBMyhf9Uzg==
+babel-plugin-transform-taroapi@2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/babel-plugin-transform-taroapi/-/babel-plugin-transform-taroapi-2.0.1.tgz#50d209790b01e0b1b739198016dec5c1770ad686"
+  integrity sha512-jgFvdZAel7lZpcE9jtv+oTPqx7UrlE75Hzd3LsCPRfJBDWGLXCpkFzRbJ0YZtnQ/6KkM2tmwhU+ItPEx/KfX9A==
 
 babel-preset-es2015@^6.24.1, babel-preset-es2015@^6.9.0:
   version "6.24.1"
@@ -2366,8 +2366,9 @@ decamelize@^2.0.0:
     xregexp "4.0.0"
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.npmjs.org/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 decompress-response@^3.2.0:
   version "3.3.0"
