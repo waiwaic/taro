@@ -1242,17 +1242,17 @@
     xcode "^2.0.0"
     xmldoc "^0.4.0"
 
-"@tarojs/taro@2.0.0-beta.13":
-  version "2.0.0-beta.13"
-  resolved "https://registry.npm.taobao.org/@tarojs/taro/download/@tarojs/taro-2.0.0-beta.13.tgz?cache=0&sync_timestamp=1577772870840&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40tarojs%2Ftaro%2Fdownload%2F%40tarojs%2Ftaro-2.0.0-beta.13.tgz#6537b4263a27641fa51e8f98673f9ea48919af01"
-  integrity sha1-ZTe0JjonZB+lHo+YZz+epIkZrwE=
+"@tarojs/taro@2.0.1":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@tarojs/taro/-/taro-2.0.1.tgz#abde7b5951ad90812e9e67c396d65a37a3ca55f4"
+  integrity sha512-++A9+g5pfb/gbVMKadXUKhPch3A/GmXuknOf52DEXwYyF7CLKVKXqmRnzqX3Hev/djpw2dCDBPM1Z7GG+Mmnww==
   dependencies:
-    "@tarojs/utils" "2.0.0-beta.13"
+    "@tarojs/utils" "2.0.1"
 
-"@tarojs/utils@2.0.0-beta.13":
-  version "2.0.0-beta.13"
-  resolved "https://registry.npm.taobao.org/@tarojs/utils/download/@tarojs/utils-2.0.0-beta.13.tgz?cache=0&sync_timestamp=1577772253852&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40tarojs%2Futils%2Fdownload%2F%40tarojs%2Futils-2.0.0-beta.13.tgz#a3b9b4a36ab71ac4e2a3fddd96f4fb006862ea62"
-  integrity sha1-o7m0o2q3GsTio/3dlvT7AGhi6mI=
+"@tarojs/utils@2.0.1":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@tarojs/utils/-/utils-2.0.1.tgz#54dbee464a0bff91b79556b5bfbf12dede0f4064"
+  integrity sha512-zB4WbSyP/k/7ncP2GpP43nrmsiXyCyS4BkWb+6iHjIR/uWvF4STj9mUOqUyOKZ9/H4f4tYUIs30WG9i/8VV0HQ==
 
 "@types/babel-types@^7.0.7":
   version "7.0.7"
@@ -8426,9 +8426,9 @@ typescript@3.0.3:
   integrity sha512-kk80vLW9iGtjMnIv11qyxLqZm20UklzuR2tL0QAnDIygIUIemcZMxlMWudl9OOt76H3ntVzcTiddQ1/pAAJMYg==
 
 ua-parser-js@^0.7.18, ua-parser-js@^0.7.19:
-  version "0.7.20"
-  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.20.tgz#7527178b82f6a62a0f243d1f94fd30e3e3c21098"
-  integrity sha512-8OaIKfzL5cpx8eCMAhhvTlft8GYF8b2eQr6JkCyVdrgjcytyOmPCXrqXFcUnhonRpLlh5yxEZVohm6mzaowUOw==
+  version "0.7.33"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.33.tgz#1d04acb4ccef9293df6f70f2c3d22f3030d8b532"
+  integrity sha512-s8ax/CeZdK9R/56Sui0WM6y9OFREJarMRHqLB2EwkovemBxNQ+Bqu8GAsUnVcXKgphb++ghr/B2BZx4mahujPw==
 
 uglify-es@^3.1.9:
   version "3.3.9"
